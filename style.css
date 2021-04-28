@@ -250,6 +250,10 @@ body {
   background-image: url("img/icon-css.svg");
 }
 
+.skill-bitrix {
+  background-image: url("img/bitrix-logo.png");
+}
+
 .level {
   margin: 0 0 40px;
   height: 24px;
