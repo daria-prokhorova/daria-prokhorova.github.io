@@ -292,7 +292,11 @@ body {
 
 .portfolio-card p {
   width: 470px;
-  margin: 16px auto;
+  margin: 16px auto 0;
+}
+
+.portfolio-card .button {
+  margin-top: 16px;
 }
 
 .projects {
